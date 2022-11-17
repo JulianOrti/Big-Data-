@@ -28,4 +28,4 @@ While learning the programming skills needed to manipulate and visualize the dat
 * Week 6: Linear models
 * Week 7: Linear models (continued), Clustering
 * Week 8: Clustering (continued), Dimensionality reduction, Classification
-* Week 9: Classification (continued), HPC
+* Week 9: Classification (continued), Survival analysis, HPC
