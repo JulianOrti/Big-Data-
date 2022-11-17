@@ -12,7 +12,7 @@ This course aims to provide practical tools to analyze large biomedical datasets
 
 While learning the programming skills needed to manipulate and visualize the data, participants will learn the statistical and modeling approaches for big data analysis. The course will cover:
 * Basis of Python programming and UNIX;
-* High performance computing;
+* High performance computing (HPC);
 * Manipulation and cleaning of large datasets with Pandas;
 * Visualization tools (Matplotlib, Seaborn);
 * Machine learning and numerical libraries (SciPy, NumPy, Statsmodels, Scikit-Learn).
