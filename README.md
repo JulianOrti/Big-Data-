@@ -16,4 +16,4 @@ While learning the programming skills needed to manipulate and visualize the dat
 * Manipulation and cleaning of large datasets with Pandas;
 * Visualization tools (Matplotlib, Seaborn);
 * Machine learning and numerical libraries (SciPy, NumPy, Statsmodels, Scikit-Learn).
-* Statistical analysis and modeling of big data, and applications to biomedical datasets (statistical learning, distributions, linear and logistic regressions, principal component analysis, clustering, classification, time series analysis, tree-based methods, predictive models).
+* Statistical analysis and modeling of big data, and applications to biomedical datasets (statistical learning, distributions, linear and logistic regressions, principal component analysis, clustering, classification, tree-based methods, predictive models).
