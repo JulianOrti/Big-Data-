@@ -17,3 +17,15 @@ While learning the programming skills needed to manipulate and visualize the dat
 * Visualization tools (Matplotlib, Seaborn);
 * Machine learning and numerical libraries (SciPy, NumPy, Statsmodels, Scikit-Learn).
 * Statistical analysis and modeling of big data, and applications to biomedical datasets (statistical learning, distributions, linear and logistic regressions, principal component analysis, clustering, classification, tree-based methods, predictive models).
+
+
+## Course content by week:
+* Week 1: Intro to Python
+* Week 2: Intro to Pandas and NumPy
+* Week 3: Intro to Pandas and NumPy (continued)
+* Week 4: Data visualization with Python
+* Week 5: Probability and Statistics
+* Week 6: Linear models
+* Week 7: Linear models (continued), Clustering
+* Week 8: Clustering (continued), Dimensionality reduction, Classification
+* Week 9: Classification (continued), HPC
